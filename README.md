@@ -1,4 +1,4 @@
-Bellow are some Test Case Sampels that I wrote while working on previous projects
+Bellow are some Test Case Sampels that I wrote while working on previous learning projects
 
 ------------------------------------
 # Test Case Sample 1
